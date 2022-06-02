@@ -18,7 +18,7 @@ Implementation: Mohammad Ahmadi Ganjei
 
 One of the best and general feature selection algorithms is here:
 
-M. A. Ganjei and R. Boostani, “A fast hybrid feature selection method,” 2019, doi: 10.1109/ICCKE48569.2019.8964884
+M. A. Ganjei and R. Boostani, “A fast hybrid feature selection method,” 2019, doi: https://doi.org/10.1109/ICCKE48569.2019.8964884
 
 and my latest (2022) paper is here: (the BEST and the FASTEST Feature Selection Algorithm)
 
