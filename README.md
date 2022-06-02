@@ -20,6 +20,6 @@ One of the best and general feature selection algorithms is here:
 
 M. A. Ganjei and R. Boostani, “A fast hybrid feature selection method,” 2019, doi: https://doi.org/10.1109/ICCKE48569.2019.8964884
 
-and my latest (2022) paper is here: (the BEST and the FASTEST Feature Selection Algorithm)
+and my latest (2022) paper is here: (the BEST (most accurate) and the FASTEST Feature Selection Algorithm)
 
 M.A.Ganjei, R.Boostani, (2022). "A Hybrid Feature Selection Scheme for High-Dimensional Data." Engineering Applications of Artificial Intelligence. Volume 113,2022, 104894, https://doi.org/10.1016/j.engappai.2022.104894
